@@ -1,0 +1,52 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1222" measuredH="580" mockupW="1162" mockupH="560">
+  <controls>
+    <control controlID="8" controlTypeID="__group__" x="60" y="20" w="540" h="323" measuredW="540" measuredH="323" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="540" h="323" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <color>15658734</color>
+            <text>A%20Web%20Page%0Ahttp%3A//google.com</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="__group__" x="37" y="94" w="467" h="173" measuredW="467" measuredH="173" zOrder="1" locked="false" isInGroup="8">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="467" h="173" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="7"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="15" y="15" w="-1" h="-1" measuredW="105" measuredH="21" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <text>What%27s%20your%20goal%3F</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="36" w="-1" h="-1" measuredW="85" measuredH="24" zOrder="2" locked="false" isInGroup="7">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>google.com</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="64" w="437" h="70" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="7"/>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="401" y="142" w="-1" h="-1" measuredW="51" measuredH="24" zOrder="4" locked="false" isInGroup="7">
+              <controlProperties>
+                <text>Go%20%3E</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="226" y="144" w="-1" h="-1" measuredW="169" measuredH="21" zOrder="5" locked="false" isInGroup="7">
+              <controlProperties>
+                <text>*20*%20more%20characters%20required</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="682" y="20" w="540" h="560" measuredW="540" measuredH="560" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="540" h="560" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="9">
+          <controlProperties>
+            <color>16777215</color>
+            <text>A%20Web%20Page%0Achrome%3A//history</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
